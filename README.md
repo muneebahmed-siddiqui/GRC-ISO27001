@@ -76,14 +76,3 @@ git clone https://github.com/muneebahmed-siddiqui/GRC-ISO27001.git
 
 - `.pdf` files preview directly on GitHub.
 - `.docx` and `.xlsx` files should be downloaded and opened in Microsoft Office or LibreOffice.
-
-## Disclaimer
-
-This work was produced for educational purposes as part of an internship program. Scenarios, organizations and data are for training and do not represent real systems or confidential information.
-
-## Contact
-
-**Muneeb Ahmed** | GitHub: [@muneebahmed-siddiqui](https://github.com/muneebahmed-siddiqui)
-
----
-*ISO/IEC 27001 is a registered standard of ISO/IEC. This repository is not affiliated with or endorsed by ISO.*
